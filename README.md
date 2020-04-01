@@ -1,5 +1,5 @@
 # Documentation
 
-Website for BCJS.edu.mt
+Website for stalbert.edu.mt
 
 Version 0.1
