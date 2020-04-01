@@ -1,6 +1,6 @@
 # general configuration
-url: "http://stalbert.edu.mt"
-baseurl: ""
+url: ""
+baseurl: "/stalbert"
 
 # compass configuration
 compass:
