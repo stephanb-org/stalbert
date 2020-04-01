@@ -1,6 +1,6 @@
 # general configuration
 url: ""
-baseurl: "/stalbert"
+baseurl: ""
 
 # compass configuration
 compass:
